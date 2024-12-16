@@ -37,8 +37,4 @@ This project is a comprehensive database solution designed to manage the operati
   - Indexing frequently queried fields.
   - Efficient query design for large datasets.
 
-## Setup Instructions
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Abdullah88909/Library-Management-System-Database-Project.git
